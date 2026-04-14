@@ -1,0 +1,26 @@
+# 12 April, 2026
+- Logical Framework Analysis - sometime might be stated as "Log" Framework Analysis
+	- A 4x4 matrix 
+	- Need to go through the related document before next class
+- MOPA Training related doc
+- MOF website
+	- Budget at a glance
+		- Non-NBR Tax: mainly 5-6 sectors like land registry, travel related tax,
+		- Non-Tax Revenue: For example, % of income from UN missions, হাট-বাজার, বিল, ইত্যাদি ইজারা
+		- Grant vs loan
+		- Recurrent expenditure - mainly like salaries, etc (our salaries are not included in this)
+		- Capital expenditure (under operating expenditure): for example, furniture for office
+		- Most of the amount under the ADP is expended by the engineers 
+		- Most of the works under ADP are in reality carried out by the foreigners with little involvement of our own manpower
+		- Deficit budget: upto 5% is acceptable; only a handful of countries have budget surplus
+		- Financing: Managing the deficit ammount
+			- Foreign borrowing
+			- Domestic borrowing
+- BSS data highly unreliable
+- GDP, Y = C+I+G+X-M
+- GOB, Budget = 7,90,000 crore BDT
+	- Operational expenditure = 5,35,317 crore
+	- Development expenditure = 2,45,609 core
+		- ADP = 2,30,000 crore
+
+- Need to collect all the company and project related documents including but not limited to DPP (both the original and the revised ones), feasibility study, etc
