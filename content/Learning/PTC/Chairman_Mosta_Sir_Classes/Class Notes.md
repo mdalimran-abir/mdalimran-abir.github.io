@@ -1,3 +1,7 @@
+---
+title: Class Notes
+---
+
 # 12 April, 2026
 - Logical Framework Analysis - sometime might be stated as "Log" Framework Analysis
 	- A 4x4 matrix 
