@@ -56,3 +56,58 @@ title: Class Notes
 		- EMRD Budget
 -  Tax-GDP ratio: <7% - lowest in the world
 - Investment (public+private): ~28% of GDP - that too probably exaggerated, ~34% in India
+
+# 27 April 2025
+- SMART
+	- S - Specific
+	- M - Measurable
+	- A - Achievable
+	- R - Realistic
+	- T - Time bound
+- Guidelines for PTC website, DPP, RDPP, and books provided in google classroom
+- Sector - available in the planning commission website
+	- Programming division - coordinates all other divisions, before submitting to ECNEC
+	- GED - research related works, doesn't work on any specific projects
+	- These 2 divisions are not directly related to any projects
+	- Each division is headed by a secretary usually, sometimes university professors are also made members.
+- Flow Type - loan vs grant
+	- Grace period for loan - time when loan installment not needed to be repaid
+	- World bank usually have higher grace and repayment period.
+	- Bilateral loan usually have shorter grace and repayment period.
+- Project life-cycle: 4 parts: initiation, planning, execution, and closing.
+	- Monitoring and control is always present but not part of life cycle - done by the project people
+	- Evaluation is not part of project management - done by a third party - some people from the project managerial team might be involved.
+- SPM Project:
+	- Repayment of SPM loan has already started
+	- Grant element: 53.1012%
+	- Interest rate: 2%
+		- Usually lower for least developed countries - one of the reason BD govt doesn't want to graduate from LDC
+	- There are some service charge along with interest rate
+- Project stakeholders: those who are opposing the project are also stakeholders.
+- Company (PTC) law to uploaded on the classroom
+- Ministry of finance
+	- Finance division
+	- ERD
+	- IRD
+	- ---
+- PMI Talent Triangle
+	- Ways of working
+	- Power skills
+	- Business acumen
+	- Engineers are usually weak in the power skills and the business acumen parts
+- GOB Development project fund release
+	- SAFE
+		- Special Account in Foreign Exchange
+		- Now coverted into CONTASA
+			- Convertable taka special account
+	- Imprest 
+		- Only for ADB
+	- DOSA
+		- Dollar Special Account
+	- DPA
+		- Direct Project Aid
+		- RPA 
+- 3 skills for govt employees
+	- Project management
+	- Financial management
+	- Procurement management
