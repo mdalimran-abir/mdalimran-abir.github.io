@@ -111,3 +111,41 @@ title: Class Notes
 	- Project management
 	- Financial management
 	- Procurement management
+
+# 11 June 2026
+- Preliminary DPP is prepared before performing feasibility study.
+- Operational Plan (OP) is for health and educational sectors.
+- DPP is used for investment project
+- Targets in DPP should follow the SMART principle
+- JDCF - Japan Debt Cancellation Fund
+- DRGA - (Japanese) Debt Relief Grant Assistance
+- Project Aid (PA): 2 types
+	- Grant: no need to repay
+	- Loan: interest rate is usually very low, but it has some handling charge for people of the development partners who are working on the project
+		- Bilateral, multilateral (ADB, IDB, etc), international (IMF)
+	- RPA - reimbursable project aid
+		- paid to probably the govt first
+	- DPA - direct project aid
+		- directly provided by the development partner to probably the EPC contractor. not good for us usually.
+
+- SDR - Special Drawing Rights
+- If FE (foreign exchange) is not mentioned in DPP (in the parentheses for GOB and own fund), we can't spend foreign currencies.
+
+# 18 June 2026
+- Update the tour report within the next week.
+- Books and standards for this financial year to be procured and delivered within the next 15 days.
+- Go through the ADB case study.
+## DPP Preparation
+- Special Account (RPA) - 4 types
+	- DOSA - mainly as grant, now negligible
+	- CONTASA - for WB (CONvertable TAka Special Account)
+	- SAFE - was applicable upto 1992 for WB
+	- Imprest
+	- All these are accounting procedures
+- PMU - Project Management Unit
+- PIC - Project Implementation Committee
+- PSC - Project Steering Committee
+- Amortization Schedule - loan repayment plan
+	- Interest is more at the beginning as interest is paid on the amount that yet to be repaid.
+- Grace period vs repayment period
+	- Usually China has lower grace period whereas WB has higher.

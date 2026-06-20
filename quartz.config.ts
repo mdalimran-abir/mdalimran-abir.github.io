@@ -23,10 +23,10 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        title: "ubuntu",
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        title: "Ubuntu Sans",
+        header: "Ubuntu Sans",
+        body: "Ubuntu Sans",
+        code: "Ubuntu Mono",
       },
       colors: {
         lightMode: {
